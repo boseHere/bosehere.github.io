@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Maya Bose. I am a Graduate Student Research Assistant in the Gilbert S. Omenn Department of Computational Medicine & Bioinformatics at the University of Michigan. I work in the lab of Stephen Parker.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research as a member of the Parker lab has focused on using single-nucleus multiomics (RNAseq and ATACseq) to identify how genetic variations, especially in the non-coding regions of the genome, result in complex metabolic and cardiovascular diseases such as Type 2 Diabetes and Heart Failure with preserved Ejection Fraction (HFpEF).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work has been funded by the NHGRI Genome Sciences Training Program T32
+
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
