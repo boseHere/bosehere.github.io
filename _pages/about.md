@@ -29,7 +29,7 @@ latest_posts:
 
 My name is Maya Bose. I am a 5th year Graduate Candidate in the Gilbert S. Omenn Department of Computational Medicine & Bioinformatics at the University of Michigan, where I work in the lab of Stephen Parker.
 
-My research as a member of the Parker lab has focused on using single-nucleus multiomics (RNAseq and ATACseq) to identify how genetic variation, especially in the non-coding regions of the genome, results in complex metabolic and cardiovascular diseases such as Type 2 Diabetes and Heart Failure with preserved Ejection Fraction (HFpEF). To do this, I identify and benchmark tools for differential cell type abundance, differential gene expresison, and differential chromatin accessibility analysis.
+I use single-nucleus multiomics (RNAseq and ATACseq) to identify how genetic variations--especially in the non-coding regions of the genome--result in complex metabolic and cardiovascular diseases. To do this, I identify and benchmark tools for differential cell type abundance, differential gene expresison, and differential chromatin accessibility analysis. 
 
-My work has been funded by the NHGRI Genome Sciences Training Program T32
+My work has been funded by the National Human Genome Research Institute 5T32HG000040-22 and by Pfizer, inc. 
 
