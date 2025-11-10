@@ -24,15 +24,13 @@
   },
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Michigan, Ann Arbor",
+      "location": "Ann Arbor, MI",
+      "url": "https://medschool.umich.edu/departments/computational-medicine-bioinformatics",
+      "area": "Bioinformatics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-08",
+      "endDate": "2026-05"
     }
   ],
   "research experience": [
