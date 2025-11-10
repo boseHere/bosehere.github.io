@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 2
 cv_pdf: maya_bose_cv.pdf # you can also use external links here
-description: 
+description:
 toc:
   sidebar: left
 ---
