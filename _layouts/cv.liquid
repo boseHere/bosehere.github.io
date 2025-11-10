@@ -79,7 +79,6 @@ layout: default
 
     <article>
       <div class="cv">
-        # Embed page.cv_pdf as an object
         <object
           data="{% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}{% endif %}"
           type="application/pdf"
