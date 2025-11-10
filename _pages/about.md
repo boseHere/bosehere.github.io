@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 
 permalink: /
 subtitle: PhD Candidate, Bioinformatics, <a href='#'>University of Michigan, Ann Arbor</a>. 
 
