@@ -27,8 +27,8 @@
       "institution": "University of Michigan, Ann Arbor",
       "location": "Ann Arbor, MI",
       "url": "https://medschool.umich.edu/departments/computational-medicine-bioinformatics",
-      "area": "Bioinformatics",
-      "studyType": "PhD",
+      "area": "Gilbert S. Omenn Department of Computational Medicine & Bioinformatics",
+      "studyType": "PhD, Bioinformatics",
       "startDate": "2021-08",
       "endDate": "2026-05"
     }
@@ -46,16 +46,33 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming and workflow management",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "R",
+        "Bash",
+        "Singularity",
+        "Docker",
+        "Nextflow",
+        "Snakemake"
+      ]
+    },
+    {
+      "name": "Bioinformatics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "single-cell RNA-seq",
+        "single-cell ATAC-seq",
+        "Multiome integration",
+        "Quality control",
+        "Regression analysis",
+        "DESeq2",
+        "samtools",
+        "STAR",
+        "Seurat"
       ]
     }
   ],
